@@ -3,7 +3,7 @@ Project that explores Authentication and Security.
 
 This project was build incrementally. There are 7 levels that can be accessed through the commit history page.
 
-Each level implement some sort of authentication and security to this application.
+Each level implements some sort of authentication and security to this application.
 
 ### Common to all levels:
 - nodejs
