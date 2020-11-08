@@ -10,7 +10,9 @@ Each level implements some sort of authentication and security to this applicati
 - express
 - ejs
 - mongoose
+- dotenv
 
+In case you want to reproduce this project, you will also need to create an .env file on your SECRET, CLIENT_ID and CLIENT_SECRET keys.
 
 ## Level 1 - Username and Password Only.
 Simplest implementation for a login / password authentication.
